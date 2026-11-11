@@ -1,3 +1,14 @@
+> **CultureReset fork of [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents).** A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+>
+> - **Why it is here:** Saved as a reference while building NODE's agents, memory and tools.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/msitarzewski/agency-agents).
+>
+> The upstream README follows unchanged.
+
+---
+
 # 🎭 The Agency: AI Specialists Ready to Transform Your Workflow
 
 > **A complete AI agency at your fingertips** - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
